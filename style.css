@@ -1,0 +1,44 @@
+
+div{
+    margin: 10px;
+    border: 1px solid black;
+    height: 80px;
+}
+#header{
+    background-color: blanchedalmond;
+    
+}
+#leftSidebar{
+    background-color: blanchedalmond;
+    float: left;
+    width: 150px;
+    height: 650px;
+    background-position: center;
+    margin-left: 15px;
+}
+#rightSidebar{
+    background-color: blanchedalmond;
+    float: right;
+    width: 150px;
+    height: 650px;
+    background-position: center;
+    margin-right: 15px;
+    background: no-repeat;
+}
+#main{
+    background-color: blanchedalmond;
+    height: 200px;
+    margin-left: 170px;
+    margin-right: 170px;
+    height: 700px;
+}
+#footer{
+    background-color: #ccc;
+    height: 200px;
+}
+body{
+    background-color: blanchedalmond;
+    
+}
+
+
